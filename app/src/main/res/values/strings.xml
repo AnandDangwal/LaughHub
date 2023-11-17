@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="next">NEXT</string>
+    <string name="share">SHARE</string>
+    <string name="image_description">It contains meme as an Image.</string>
+    <string name="share_button">Share Button</string>
+</resources>
